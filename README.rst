@@ -1,4 +1,3 @@
-# Pangeo
 Some scripts base on Pangeo Binder
 
 .. image:: https://binder.pangeo.io/badge_logo.svg
