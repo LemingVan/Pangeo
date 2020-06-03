@@ -1,1 +1,1 @@
-FROM pangeo/base-image:d9dc971
+FROM pangeo/pangeo-notebook-onbuild:2019.12.08
