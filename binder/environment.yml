@@ -50,6 +50,7 @@ dependencies:
  - xarray
  - xesmf
  - xpublish
+ - xmitgcm
 # additional packages on top of pangeo notebook
  - zarr
  - eofs
