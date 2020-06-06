@@ -1,5 +1,3 @@
 fsspec
 git+git://github.com/MITgcm/xmitgcm.git@master#egg=xmitgcm
 gcsfs>=0.6.0
-firefox
-geckodriver
