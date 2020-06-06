@@ -2,7 +2,7 @@ Some scripts base on Pangeo Binder
 
 |Binder|
 
-aviso_sea-surface-height.ipynb comes from: pangeo-data1_
+aviso_sea-surface-height.ipynb & llc4320.ipynb come from: pangeo-data1_
 
 visualize_SST.ipynb comes from: pangeo-data2_
 
