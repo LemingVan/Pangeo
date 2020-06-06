@@ -51,8 +51,6 @@ dependencies:
  - xarray
  - xesmf
  - xpublish
- - firefox
- - geckodriver
 # additional packages on top of pangeo notebook
  - zarr
  - eofs
