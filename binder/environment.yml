@@ -45,6 +45,7 @@ dependencies:
  - scikit-image
  - scikit-learn
  - scipy
+ - selenium
  - sparse
  - tiledb-py
  - xarray
