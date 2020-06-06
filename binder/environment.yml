@@ -45,7 +45,6 @@ dependencies:
  - scikit-image
  - scikit-learn
  - scipy
- - selenium
  - sparse
  - tiledb-py
  - xarray
@@ -60,5 +59,3 @@ dependencies:
  - cmip6_preprocessing
  - seaborn
  - nc-time-axis
- - firefox
- - geckodriver
