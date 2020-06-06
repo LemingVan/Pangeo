@@ -60,3 +60,4 @@ dependencies:
  - cmip6_preprocessing
  - seaborn
  - nc-time-axis
+ - firefox geckodriver
